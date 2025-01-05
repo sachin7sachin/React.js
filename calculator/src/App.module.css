@@ -1,0 +1,30 @@
+.mainContainer{
+  border: 1px solid rgba(0, 0, 0, 0.162);
+  width: 350px;
+  border-radius: 10px;
+
+}
+
+.display{
+  margin: 10px;
+  width: 80%;
+  height: 40px;
+
+}
+
+.buttonContainer{
+  width: 60%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+
+}
+
+.button{
+  height: 50px;
+  width: 50px;
+  margin: 8px;
+  font-size: 15px;
+  border-radius: 8px;
+  border: 1px solid rgba(0, 0, 0, 0.304);
+}
