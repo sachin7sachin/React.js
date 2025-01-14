@@ -1,0 +1,39 @@
+.mainContainer{
+  display:flex;
+}
+
+
+.subContainer{
+  width: 100%;
+}
+
+.sidebar{
+  min-height: 800px;
+}
+
+.postCard{
+  margin: 15px 40px;
+}
+
+.tag{
+  margin: 0px 3px;
+}
+
+.reactions{
+  margin: 15px 0px;
+}
+
+.createPost{
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.welcomeMessage{
+  margin: 100px 0px;
+}
+
+.spinner{
+  margin: 100px 0px;
+  font-size: 30px;
+}
