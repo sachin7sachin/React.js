@@ -1,0 +1,27 @@
+.container{
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+.counterDisplay{
+  margin-top: 40px;
+}
+
+.heading{
+  margin-top: 10px;
+}
+
+.controls{
+  display: flex;
+  width: 110%;
+  flex-wrap: wrap;
+}
+
+.input{
+  width: 140px;
+}
+
+.subControlsDiv{
+  display: flex;
+  gap: 7px;
+}
